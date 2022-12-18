@@ -1,0 +1,46 @@
+{
+  "troskoviZarade": [
+    {
+      "incomeExpense": "income",
+      "description": "Salary",
+      "value": "3001",
+      "id": 3
+    },
+    {
+      "incomeExpense": "income",
+      "description": "Project",
+      "value": "1501",
+      "id": 4
+    },
+    {
+      "incomeExpense": "expences",
+      "description": "Rent",
+      "value": "900",
+      "id": 6
+    },
+    {
+      "incomeExpense": "expences",
+      "description": "Holidays",
+      "value": "1000",
+      "id": 7
+    },
+    {
+      "incomeExpense": "expences",
+      "description": "Gas & Electricity",
+      "value": "250",
+      "id": 8
+    },
+    {
+      "incomeExpense": "expences",
+      "description": "Loan",
+      "value": "4500",
+      "id": 9
+    },
+    {
+      "incomeExpense": "income",
+      "description": "Sold car",
+      "value": "5000",
+      "id": 10
+    }
+  ]
+}
